@@ -24,6 +24,6 @@ align-items: center;
 .all_card{
     margin: 1%;
 }
-.heart_icon{
-  flex-direction: flex-end;
+.heart_img{
+    flex-direction: flex-end;
 }
